@@ -1,1 +1,1 @@
-# Tugas-GLSC-Binus---Interface-dan-Inheritance
+# Tugas GLSC Binus - Interface dan Inheritance
